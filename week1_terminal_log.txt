@@ -1,0 +1,9 @@
+    1  cd
+    2  \nzaproxy
+    3  cd
+    4  sudo apt update\nsudo apt install docker.io -y\n
+    5  sudo systemctl enable docker\nsudo systemctl start docker\n
+    6  sudo docker --version
+    7  sudo docker pull bkimminich/juice-shop
+    8  sudo docker run -d -p 3000:3000 bkimminich/juice-shop
+zaproxy
