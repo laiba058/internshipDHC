@@ -2,9 +2,6 @@
 
 ## 📌 User Authentication System with Security Logging (Internship Project)
 
-This project is part of a 3-week cybersecurity internship focusing on secure web development, vulnerability assessment, and logging best practices. It implements a basic user authentication system with secure password hashing, input validation, JWT tokens, and security logging using Winston.
-
----
 
 ## 📅 Internship Breakdown
 
